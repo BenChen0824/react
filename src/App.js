@@ -1,5 +1,5 @@
 import React from 'react';
-import Parent from './ex.0712.01/Parent';
+import Parent from './ex.0712.02/Parent';
 function App() {
     return (
         <>
