@@ -1,9 +1,10 @@
 import React from 'react';
-import Parent from './ex.0712.02/Parent';
+import Cart from './ex.0713.01.cart/Cart';
+
 function App() {
     return (
         <>
-            <Parent />
+            <Cart />
         </>
     );
 }
