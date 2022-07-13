@@ -1,10 +1,11 @@
 import React from 'react';
-import Cart from './ex.0713.01.cart/Cart';
+
+import Controlled from './ex.0713.02.input/controlled';
 
 function App() {
     return (
         <>
-            <Cart />
+            <Controlled />
         </>
     );
 }
