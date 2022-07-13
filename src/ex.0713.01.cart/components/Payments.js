@@ -1,5 +1,5 @@
 function Payments(props) {
-    const { total, totalPrice } = props;
+    const { totals, totalPrice } = props;
     return (
         <>
             <div className="col-md-4 summary">
@@ -10,7 +10,7 @@ function Payments(props) {
                 </div>
                 <hr />
                 <div className="row">
-                    <div className="col col-style">共 {total} 項目</div>
+                    <div className="col col-style">共 {totals} 項目</div>
                 </div>
                 <div className="row row-style">
                     <div className="col">總價</div>
