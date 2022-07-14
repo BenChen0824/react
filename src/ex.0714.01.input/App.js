@@ -1,11 +1,11 @@
 import React from 'react';
 
-import Datecheck from './ex.0714.02.datecheck/datecheck';
+import Controlled from './ex.0714.01.input/controlled';
 
 function App() {
     return (
         <>
-            <Datecheck />
+            <Controlled />
         </>
     );
 }

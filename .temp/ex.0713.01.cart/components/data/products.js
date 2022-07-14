@@ -27,4 +27,11 @@ export const products = [
         name: '藍色 T-shirt',
         price: 10,
     },
+    {
+        id: 5,
+        category: 'Shirt',
+        imgURL: 'https://i.imgur.com/1GrakTl.jpg',
+        name: '藍色 T-shirt',
+        price: 10,
+    },
 ];
