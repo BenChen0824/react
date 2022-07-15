@@ -1,11 +1,13 @@
 import React from 'react';
 
-import Datecheck from './ex.0714.02.datecheck/datecheck';
+import IdForm from './ex.0715.06.REFS/IdForm';
+import RefsForm from './ex.0715.06.REFS/RefsForm';
 
 function App() {
     return (
         <>
-            <Datecheck />
+            <IdForm />
+            <RefsForm />
         </>
     );
 }
