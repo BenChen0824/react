@@ -1,13 +1,11 @@
 import React from 'react';
 
-import IdForm from './ex.0715.06.REFS/IdForm';
-import RefsForm from './ex.0715.06.REFS/RefsForm';
+import UserData from './ex.0718.02.userData/userData';
 
 function App() {
     return (
         <>
-            <IdForm />
-            <RefsForm />
+            <UserData />
         </>
     );
 }
